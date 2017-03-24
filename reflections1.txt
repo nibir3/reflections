@@ -18,6 +18,16 @@ What do you think are the pros and cons of manually choosing when to create a co
 Pros - you can choose the way it works better for you
 
 Cons - you don't get a consistend commit policy if you are not consistent on your decisions
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It helps you to see the evolution in the code, and find when you introduced a bug. If you use it to blame who did it 
+that is fine, but you should use is to learn on other errors and even from your own mistakes.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros - you can choose the way it works better for you
+
+Cons - you don't get a consistend commit policy if you are not consistent on your decisions
 
 
 
