@@ -1,0 +1,9 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It just shows you the differences and the old vs new content of the file, so you can focus on what has changed
+You won't miss any difference because you'll get all them as result of the command, and you can run it again
+to double check that the file has been reviewed according to what you expect
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to start using in my personal projects in github
