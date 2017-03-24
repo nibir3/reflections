@@ -1,2 +1,10 @@
 When would you want to use a remote repository rather than keeping all your work local?
 I would want to use a remote repository when i want other people to see my file, or would want them to include new additional features which they think would be good for the file.
+if i wish to build something based on someone else's github codebase. i am able to fork the original repository to my github account. then develop from there.
+(rather than downloading someone else's github repository onto my desktop, followed by uploading to my desktop)
+Having a remote repositoryenable ease of remote collaborationwith other programmers
+It also enables ease of project sharing to the public.
+It also acts as a form of "backup" , e.g. if the home PC blows up, its good to know that there is a backup repository in the cloud (github)
+
+Why might you want to always pull changes manually rather than having git automatically stay up-to-date with your remote repository?
+THis is because someone else may make a change in my file, and i would want to first checkout if the change is good and only after that pull to local repository
