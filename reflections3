@@ -8,3 +8,11 @@ It also acts as a form of "backup" , e.g. if the home PC blows up, its good to k
 
 Why might you want to always pull changes manually rather than having git automatically stay up-to-date with your remote repository?
 THis is because someone else may make a change in my file, and i would want to first checkout if the change is good and only after that pull to local repository
+
+Describe the difference between forks, clones and branches. When would you use one instead of another?
+Fork : a copy of a git repo in github. GitHub keeps track of the fork, so you know where the fork comes from
+and the other repository knows how many forks has
+
+Clone : copy a repo into a local git repo
+
+Branches : copy current commited code into a diferent commit-tree in local
