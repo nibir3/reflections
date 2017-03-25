@@ -19,3 +19,8 @@ Branches : copy current commited code into a diferent commit-tree in local
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 THen we can be up-to-date with the changes we have made in the github master branch even when we are offline, such as if we are on a plane.
+
+How would you collaborate without using Git or GitHub ? What would be easier, and what would be harder?
+We could collaborate without using git or github by using e-mail, word-to -mouth (being in the same room) chatroom, or just by workingon one computer together. The easiest part would be settling
+merge conflicts much faster and without being far way from your partner on the project.What would make things harder is wasting time working in the same area emailing or sending files via wifi/ bluetooth 
+which could become tedious.
