@@ -24,3 +24,8 @@ How would you collaborate without using Git or GitHub ? What would be easier, an
 We could collaborate without using git or github by using e-mail, word-to -mouth (being in the same room) chatroom, or just by workingon one computer together. The easiest part would be settling
 merge conflicts much faster and without being far way from your partner on the project.What would make things harder is wasting time working in the same area emailing or sending files via wifi/ bluetooth 
 which could become tedious.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You are adding a new feature, and you want someone to review before it becomes it part of master.
+You create a branch so you give the oportunity to others to review a pull request with the changes before merging into trunk.
